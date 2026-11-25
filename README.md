@@ -46,4 +46,4 @@ Encontrar novos talentos para fazer parte da equipe de futebol do clube.
 
 Projeto desenvolvido como atividade escolar.
 
-2026 - Peneira do Clube
+Carlos Henrique
